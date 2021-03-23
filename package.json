@@ -1,0 +1,19 @@
+{
+  "name": "caesarcipher",
+  "version": "1.0.0",
+  "description": "caesar cipher code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiranya16/Caesar_cipher_assessment.git"
+  },
+  "author": "Hiranya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiranya16/Caesar_cipher_assessment/issues"
+  },
+  "homepage": "https://github.com/hiranya16/Caesar_cipher_assessment#readme"
+}
